@@ -1,5 +1,5 @@
 # Delivery Route Optimization – Capstone Project (BCA AI & DS)  
-**Course:** ENCA351 — Design and Analysis of Algorithms (Lab Assignment 4)  
+**Course:** ENCA351 — Design and Analysis of Algorithms (Lab Assignment 5)  
 **Name:** Kartik Singh  
 **Semester:** V  
 
