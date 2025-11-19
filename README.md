@@ -1,4 +1,4 @@
-#Delivery Route Optimization – Capstone Project (BCA AI & DS)  
+# Delivery Route Optimization – Capstone Project (BCA AI & DS)  
 **Course:** ENCA351 — Design and Analysis of Algorithms (Lab Assignment 4)  
 **Name:** Kartik Singh  
 **Semester:** V  
@@ -32,7 +32,7 @@ Graph Algorithms (Dijkstra for shortest path, MST for structure)
 
 TSP brute force/DP (optimal route for small n)
 
-#Input Model
+# Input Model
 
 A set of delivery locations including warehouse
 
@@ -48,7 +48,7 @@ weight
 
 Vehicle weight capacity
 
-#Algorithms Implemented
+# Algorithms Implemented
 1. Recurrence Relation
 
 A recursive formulation to compute route cost based on unvisited locations.
@@ -72,7 +72,7 @@ Implemented Brute Force and/or Held-Karp DP for small instances (3–6 nodes)
 
 Demonstrates exponential complexity
 
-#Profiling & Visualization
+# Profiling & Visualization
 
 The notebook includes:
 
