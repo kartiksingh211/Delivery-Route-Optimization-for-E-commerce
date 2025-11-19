@@ -1,5 +1,29 @@
-# Object file
-*.o
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# Ada Library Information
-*.ali
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Build / distribution / packaging files
+build/
+dist/
+*.egg-info/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
